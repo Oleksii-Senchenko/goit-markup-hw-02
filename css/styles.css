@@ -5,9 +5,6 @@ body {
 
 
 .menu_contacts {
-    
-    
-    
     font-size: 14px;
     line-height: 24px;
     letter-spacing: 0.03em;
@@ -44,8 +41,6 @@ body {
     /* H1 square*/
     width: 696px;
     /* text in H1 */
-    
-    
     font-weight: 900;
     font-size: 44px;
     line-height: 60px;
@@ -62,10 +57,7 @@ body {
     border-radius: 4px;
     /* text in BUTTON */
     /* Заказать услугу */
-    
-    
     font-weight: 700;
-    font-size: 16px;
     line-height: 30px;
     align-items: center;
     text-align: center;
@@ -81,9 +73,9 @@ body {
 
 .info_h2_font {
     color: #212121;
-    
+
     font-size: 14px;
-    
+
     font-weight: 700;
     letter-spacing: 0.03em;
     line-height: 16px;
@@ -91,9 +83,6 @@ body {
 }
 
 .info_p {
-    
-    
-    
     font-size: 14px;
     line-height: 24px;
     letter-spacing: 0.03em;
@@ -107,8 +96,6 @@ body {
 }
 
 .business_h2 {
-    
-    
     font-weight: 700;
     font-size: 36px;
     line-height: 42px;
@@ -130,8 +117,6 @@ body {
 }
 
 .team_h2 {
-    
-    
     font-weight: 700;
     font-size: 36px;
     line-height: 42px;
@@ -141,10 +126,7 @@ body {
 }
 
 .name {
-    
-    
     font-weight: 500;
-    font-size: 16px;
     line-height: 19px;
     /* identical to box height */
     text-align: center;
@@ -153,10 +135,6 @@ body {
 }
 
 .position {
-    
-    
-    
-    font-size: 16px;
     line-height: 19px;
     text-align: center;
     letter-spacing: 0.03em;
@@ -177,9 +155,6 @@ body {
 }
 
 .address {
-    
-    
-    
     font-size: 14px;
     line-height: 24px;
     letter-spacing: 0.03em;
@@ -189,8 +164,6 @@ body {
 /* PORTFOLIO */
 
 .portfolio_site_title {
-    
-    
     font-weight: 700;
     font-size: 18px;
     line-height: 36px;
@@ -199,18 +172,12 @@ body {
 }
 
 .portfolio_site_theme {
-    
-    
-    
-    font-size: 16px;
     line-height: 30px;
     letter-spacing: 0.03em;
     color: #757575;
 }
 
 .menu_link {
-    
-    
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
@@ -224,10 +191,7 @@ body {
 }
 
 .button-menu {
-    
-    
     font-weight: 500;
-    font-size: 16px;
     line-height: 26px;
     text-align: center;
     letter-spacing: 0.03em;
