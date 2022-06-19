@@ -1,130 +1,184 @@
-body{
+body {
     font-family: 'Montserrat', sans-serif;
     font-family: 'Roboto', sans-serif;
 }
-.header {width: 1600px;
-    height: 80px;
-    left: 0px;
-    top: 0px;
-}
-
-.info{
-    background-color: white;;
-}
-
-.main-color{
-    background-color: #2F303A;
-    width: 1600px;
-    height: 600px;
-}
-
-/*.team-color{background-color:  #F5F4FA;}*/
 
 
-.menu-contacts{
+.menu_contacts {
     color: #757575;
     font-weight: 500;
 }
-.menu-link {
-    color: black;
-    font-weight: 500;
-}
-
-.menu-link:hover, .menu-contacts:hover{
+.menu_contacts:hover {
     color: #2196F3;
     font-weight: 500;
 }
 
-
-.button{
-    padding: 10px 32px;
-    color:white;
-    background-color: #2196F3;
-    border: 1px solid transparent;
-    font-weight: 700;
-}
-.button-center{ text-align: center;}
-.button:hover{
-    
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);}
-
-.button-menu{ padding: 6px 20px;
-    color: black;
-    background-color: #F5F4FA;
-    border: 10px
-
-}
-.button-menu:hover{
-    color: white;
-    background-color: #2196F3;
+/* Шапка */
+.banner {
+    /* position: absolute; */
+    height: 600px;
+    background-color: #2F303A;
 }
 
-.main1{
+/* Шапка */
+/* Эффективные решения для вашего бизнеса */
+.banner_h1 {
+    /* H1 square*/
+    width: 696px;
+ 
+
+    /* text in H1 */
+    font-family: 'Roboto';
+    font-style: normal;
     font-weight: 900;
     font-size: 44px;
-    line-height: 136%;
-    color:white;
+    line-height: 60px;
+
     text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
 }
-.h2-fonts{
+
+.banner_button {
+    /* BUTTON squire */
+    background: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15); */
+    border-radius: 4px;
+
+    /* text in BUTTON */
+    /* Заказать услугу */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+}
+
+
+/* Особенности */
+.info {
+    background-color: white;
+}
+
+.info_h2_font {
     font-weight: 700;
     font-size: 14px;
     line-height: 16px;
 }
 
-.h2-fontss {
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 42px;
-    text-align: center;}
-
-.underh2{font-weight: 400;
+.info_p {
+    font-weight: 400;
     font-size: 14px;
     line-height: 24px;
     color: #757575;
 }
-    
-
-.name {
-    font-weight:700;
-}
-.addreass{
-    font-weight: 400;
-}
 
 
+/* Чем мы занимаемся */
+.business_section {
+    background-color:  #ffffff;
+}
 
-.button-menu:hover{
-    color: #F5F4FA;
-    background-color: #2196F3;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-}
-.name-portfol{
-    font-weight: 700;
-}
-.second-name-portfol{
-    font-weight: 400;
-    color: #757575;
-}
-.team-style {
+.business_h2 {
     font-weight: 700;
     font-size: 36px;
     line-height: 42px;
     text-align: center;
 }
-.team-section{
-    background-color: #F5F4FA;
-   
-    }
-    
 
-.footer{
-    width: 1600px;
-    height: 252px;
+/* Наша команда */
+.team_section {
+    background-color: #F5F4FA;
+}
+
+.teamteam_h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+}
+
+.name {
+    font-weight: 700;
+}
+
+.position {
+    font-weight: 400;
+    color: #757575;
+}
+
+
+
+
+/* Подвал */
+.footer {
     background-color: #2F303A;
 }
-.main-logo-web:hover{
-    box-shadow:  #2196F3;
+
+.address {
+    color: white;
+}
+
+/* PORTFOLIO */
+
+.menu-link {
+    color: black;
+    font-weight: 500;
+}
+
+.menu-link:hover {
+    color: #2196F3;
+    font-weight: 500;
+}
+
+.main-logo-web:hover {
+    box-shadow: #2196F3;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
-.addreass{color: white;}
+
+
+
+.button {
+    padding: 10px 32px;
+    color: white;
+    background-color: #2196F3;
+    border: 1px solid transparent;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+
+.button-menu {
+    padding: 6px 20px;
+    color: black;
+    background-color: #F5F4FA;
+    border: 10px
+}
+
+.button-menu:hover {
+    color: white;
+    background-color: #2196F3;
+}
+
+.button-menu:hover {
+    color: #F5F4FA;
+    background-color: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+}
+
+.name-portfol {
+    font-weight: 700;
+}
+
+
+
+
+
+
