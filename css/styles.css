@@ -4,24 +4,24 @@ body {
 }
 
 
-.menu_contacts {
+.menu-contacts {
     font-size: 14px;
     line-height: 24px;
     letter-spacing: 0.03em;
     color: #ffffff99;
 }
 
-.menu_contacts:hover {
+.menu-contacts:hover {
     color: #2196F3;
     font-weight: 500;
 }
 
-.main_logo_web {
+.main-logo-web {
     color: aqua;
     /* will be refactored */
 }
 
-.main_logo_web:hover {
+.main-logo-web:hover {
     box-shadow: #2196F3;
     box-shadow: 0px 4px 4px #00000026;
 }
@@ -37,7 +37,7 @@ body {
 
 /* Шапка */
 /* Эффективные решения для вашего бизнеса */
-.banner_h1 {
+.banner-h1 {
     /* H1 square*/
     width: 696px;
     /* text in H1 */
@@ -50,7 +50,7 @@ body {
     color: #FFFFFF;
 }
 
-.banner_button {
+.banner-button {
     /* BUTTON squire */
     background: #2196F3;
     box-shadow: 0px 4px 4px #00000026;
@@ -71,7 +71,7 @@ body {
     background-color: white;
 }
 
-.info_h2_font {
+.info-h2-font {
     color: #212121;
 
     font-size: 14px;
@@ -82,7 +82,7 @@ body {
     text-transform: uppercase;
 }
 
-.info_p {
+.info-p {
     font-size: 14px;
     line-height: 24px;
     letter-spacing: 0.03em;
@@ -91,11 +91,11 @@ body {
 
 
 /* Чем мы занимаемся */
-.business_section {
+.business-section {
     background-color: #ffffff;
 }
 
-.business_h2 {
+.business-h2 {
     font-weight: 700;
     font-size: 36px;
     line-height: 42px;
@@ -104,7 +104,7 @@ body {
     color: #212121;
 }
 
-.business_img {
+.business-img {
     width: 370px;
     height: 294px;
 }
@@ -112,11 +112,11 @@ body {
 
 
 /* Наша команда */
-.team_section {
+.team-section {
     background-color: #F5F4FA;
 }
 
-.team_h2 {
+.team-h2 {
     font-weight: 700;
     font-size: 36px;
     line-height: 42px;
@@ -141,7 +141,7 @@ body {
     color: #757575;
 }
 
-.team_img {
+.team-img {
     width: 270px;
     height: 260px;
 }
@@ -163,7 +163,7 @@ body {
 
 /* PORTFOLIO */
 
-.portfolio_site_title {
+.portfolio-site-title {
     font-weight: 700;
     font-size: 18px;
     line-height: 36px;
@@ -171,13 +171,13 @@ body {
     color: #212121;
 }
 
-.portfolio_site_theme {
+.portfolio-site-theme {
     line-height: 30px;
     letter-spacing: 0.03em;
     color: #757575;
 }
 
-.menu_link {
+.menu-link {
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
@@ -185,7 +185,7 @@ body {
     color: #212121;
 }
 
-.menu_link:hover {
+.menu-link:hover {
     color: #2196F3;
     font-weight: 500;
 }
@@ -209,7 +209,7 @@ body {
     box-shadow: 0px 4px 4px #00000026;
 }
 
-.portfolio_img {
+.portfolio-img {
     width: 370px;
     height: 294px
 }
