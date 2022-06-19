@@ -2,7 +2,11 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Roboto', sans-serif;
 }
-
+.header {width: 1600px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+}
 
 .info{
     background-color: white;;
@@ -10,9 +14,11 @@ body{
 
 .main-color{
     background-color: #2F303A;
+    width: 1600px;
+    height: 600px;
 }
 
-.team-color{background-color:  #F5F4FA;}
+/*.team-color{background-color:  #F5F4FA;}*/
 
 
 .menu-contacts{
@@ -37,9 +43,20 @@ body{
     border: 1px solid transparent;
     font-weight: 700;
 }
+.button-center{ text-align: center;}
 .button:hover{
     
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);}
+
+.button-menu{ padding: 6px 20px;
+    color: black;
+    background-color: #F5F4FA;
+    border: 10px
+
+}
+.button-menu:hover{
+    color: white;
+    background-color: #2196F3;
 }
 
 .main1{
@@ -51,10 +68,22 @@ body{
 }
 .h2-fonts{
     font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
 }
-.main-content-second-fonts{
-    font-weight: 400;
+
+.h2-fontss {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;}
+
+.underh2{font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #757575;
 }
+    
 
 .name {
     font-weight:700;
@@ -64,12 +93,7 @@ body{
 }
 
 
-.button-menu{ padding: 6px 20px;
-    color: black;
-    background-color: #F5F4FA;
-    border: 10px
-    
-}
+
 .button-menu:hover{
     color: #F5F4FA;
     background-color: #2196F3;
@@ -80,4 +104,27 @@ body{
 }
 .second-name-portfol{
     font-weight: 400;
+    color: #757575;
 }
+.team-style {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+}
+.team-section{
+    background-color: #F5F4FA;
+   
+    }
+    
+
+.footer{
+    width: 1600px;
+    height: 252px;
+    background-color: #2F303A;
+}
+.main-logo-web:hover{
+    box-shadow:  #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+}
+.addreass{color: white;}
