@@ -5,10 +5,14 @@ body {
 
 
 .menu_contacts {
+    font-style: normal;
+    font-weight: 500;
     font-size: 14px;
-    line-height: 24px;
-    letter-spacing: 0.03em;
-    color: #ffffff99;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #757575;
+    
+    
 }
 
 .menu_contacts:hover {
@@ -99,7 +103,6 @@ body {
     font-weight: 700;
     font-size: 36px;
     line-height: 42px;
-    text-align: center;
     letter-spacing: 0.03em;
     color: #212121;
 }
@@ -120,7 +123,6 @@ body {
     font-weight: 700;
     font-size: 36px;
     line-height: 42px;
-    text-align: center;
     letter-spacing: 0.03em;
     color: #212121;
 }
@@ -128,15 +130,12 @@ body {
 .name {
     font-weight: 500;
     line-height: 19px;
-    /* identical to box height */
-    text-align: center;
     letter-spacing: 0.03em;
     color: #212121;
 }
 
 .position {
     line-height: 19px;
-    text-align: center;
     letter-spacing: 0.03em;
     color: #757575;
 }
