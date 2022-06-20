@@ -21,15 +21,19 @@ body {
 }
 
 .main_logo_web {
-    color: aqua;
-    /* will be refactored */
+    color:#2196F3;
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
 }
 
 .main_logo_web:hover {
     box-shadow: #2196F3;
     box-shadow: 0px 4px 4px #00000026;
 }
-
+.link{text-decoration: none;}
 
 
 /* Шапка */
