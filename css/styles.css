@@ -42,7 +42,6 @@ body {
 /* Шапка */
 .banner {
     /* position: absolute; */
-    height: 600px;
     background-color: #2F303A;
 }
 
@@ -50,7 +49,6 @@ body {
 /* Эффективные решения для вашего бизнеса */
 .banner_h1 {
     /* H1 square*/
-    width: 696px;
     /* text in H1 */
     font-weight: 900;
     font-size: 44px;
@@ -68,12 +66,12 @@ body {
     border-radius: 4px;
     /* text in BUTTON */
     /* Заказать услугу */
+    font-family: inherit;
     font-weight: 700;
     line-height: 30px;
-    align-items: center;
-    text-align: center;
     letter-spacing: 0.06em;
     color: #FFFFFF;
+    cursor: pointer;
 }
 
 
@@ -154,11 +152,10 @@ body {
 /* Подвал */
 .footer {
     background-color: #2F303A;
-    width: 1600px;
-    height: 252px;
 }
 
 .address {
+    font-style: normal;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
@@ -195,11 +192,12 @@ body {
 }
 
 .button-menu {
+    font-family: inherit;
     font-weight: 500;
     line-height: 26px;
-    text-align: center;
     letter-spacing: 0.03em;
     color: #212121;
+    cursor: pointer;
 }
 
 .button-menu:hover {
