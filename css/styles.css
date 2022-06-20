@@ -8,7 +8,7 @@ body {
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     color: #757575;
     
@@ -25,7 +25,7 @@ body {
     font-family: 'Raleway';
     font-weight: 700;
     font-size: 26px;
-    line-height: 31px;
+    line-height: 1.19;
     letter-spacing: 0.03em;
 }
 
@@ -54,7 +54,7 @@ body {
     /* text in H1 */
     font-weight: 900;
     font-size: 44px;
-    line-height: 60px;
+    line-height: 1.36;
     letter-spacing: 0.06em;
     text-align: center;
     text-transform: uppercase;
@@ -84,18 +84,16 @@ body {
 
 .info_h2_font {
     color: #212121;
-
     font-size: 14px;
-
     font-weight: 700;
     letter-spacing: 0.03em;
-    line-height: 16px;
+    line-height: 1.14;
     text-transform: uppercase;
 }
 
 .info_p {
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.71;
     letter-spacing: 0.03em;
     color: #757575;
 }
@@ -109,7 +107,7 @@ body {
 .business_h2 {
     font-weight: 700;
     font-size: 36px;
-    line-height: 42px;
+    line-height: 1.16;
     letter-spacing: 0.03em;
     color: #212121;
 }
@@ -129,7 +127,7 @@ body {
 .team_h2 {
     font-weight: 700;
     font-size: 36px;
-    line-height: 42px;
+    line-height: 1.16;
     letter-spacing: 0.03em;
     color: #212121;
 }
@@ -162,7 +160,7 @@ body {
 
 .address {
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.71;
     letter-spacing: 0.03em;
     color: #FFFFFF;
 }
@@ -172,7 +170,7 @@ body {
 .portfolio_site_title {
     font-weight: 700;
     font-size: 18px;
-    line-height: 36px;
+    line-height: 2;
     letter-spacing: 0.06em;
     color: #212121;
 }
@@ -186,7 +184,7 @@ body {
 .menu_link {
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     color: #212121;
 }
